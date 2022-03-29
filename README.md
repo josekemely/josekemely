@@ -1,7 +1,7 @@
 ### Olá! Prazer, sou o José Kêmely
 
 - 🔭 Sem trabalho desde o ínicio da pandemia (2020)
-- 🌱 Estudando Programação Mobile (Android, Java e Kotlin)
+- 🌱 Estudando Python
 
 <div>
   <a href="https://github.com/josekemely">
